@@ -1,5 +1,6 @@
 # DiscordBot
 PL:
+
 Discordbot jest to bot do komunikatora discord wstępnie robiony był w ramach pomocy koledze 
 z pisaniem jego własnego bota po zrobieniu kilku podstawowych komend został on porzucony do 
 czasu gdy znowu pomagałem temu koledze z jego botem
@@ -18,3 +19,8 @@ po zmianie 0 na 1 discordbot wysyła na konkretny kanał na discordzie wiadomoś
 W większości ten program jest stworzony by pomóc koledze w rozwijaniu jego bota.
 Ja piszę swój odpowiednik w pythonie a następnie pomagam mu "przerobić" go na język java gdyż w nim 
 jest stowrzony jego bot.
+
+ENG:
+
+Discordbot is it a bot for communicator "Discord" initially it has been made to help a colleague
+in making his own bot 
